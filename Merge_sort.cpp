@@ -2,6 +2,10 @@
     coded by PRATYAKSH GARG
     11-FEB-2024
 */
+
+// Time Complexity:- O(nLogn)
+// Space Complexity:- O(n)
+
 #include <iostream>
 using namespace std;
 void merge(int arr[], int l, int mid, int r){
